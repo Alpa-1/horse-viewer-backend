@@ -1,13 +1,13 @@
 {
   "name": "horse",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "",
   "type": "module",
   "main": "./src/server.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "siegle-michael@web.de",
   "license": "ISC",
   "dependencies": {
     "@types/body-parser": "^1.19.2",

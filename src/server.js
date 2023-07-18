@@ -6,7 +6,7 @@ import axios from "axios";
 import canvas from "canvas";
 
 const app = express();
-const port = process.env.port || 3000;
+const port = process.env.PORT || 8080;
 const scaleVar = 2;
 const topCut = 260 * scaleVar;
 const botCut = 180 * scaleVar;
